@@ -17,9 +17,10 @@
 10. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Métodos Cadastrar e Atualizar</a>
 11. <a href="11.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>
 12. <a href="12.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>
-13. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a> -->
+13. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a> 
 
 <br /><br />
 	
 <div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
 <div align="center">Home</div>
+-->
