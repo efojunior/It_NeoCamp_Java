@@ -12,9 +12,9 @@
 5. <a href="05.md" >Projeto Blog Pessoal - Classe Postagem Model</a>
 6. <a href="06.md" >Projeto Blog Pessoal - Interface Postagem Repository</a>-->
 7. <a href="07.md" >Métodos</a> 
-8. <a href="08.md" >Introdução a Programação Orientada a Objetos</a>
-<!-- 9. <a href="09.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Buscar por título</a>
-10. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Métodos Cadastrar e Atualizar</a>
+8. <a href="08.md" >Introdução a Programação Orientada a Objetos - Parte 01</a>
+9. <a href="09.md" >Introdução a Programação Orientada a Objetos - Parte 02</a>
+<!--10. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Métodos Cadastrar e Atualizar</a>
 11. <a href="11.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>
 12. <a href="12.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>
 13. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a> 
