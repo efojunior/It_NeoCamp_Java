@@ -14,7 +14,7 @@
 7. <a href="07.md" >Métodos</a> 
 8. <a href="08.md" >Introdução a Programação Orientada a Objetos - Parte 01</a>
 9. <a href="09.md" >Introdução a Programação Orientada a Objetos - Parte 02</a>
-10. <a href="09-1.md" >Exceptions</a>
+10. <a href="091.md" >Exceptions</a>
 <!-- 11. <a href="10.md" >Projeto Blog Pessoal - Classe Postagem Controller - Métodos Cadastrar e Atualizar</a>
 12. <a href="11.md" >Projeto Blog Pessoal - Classe Postagem Controller - Método Apagar</a>
 13. <a href="12.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>
