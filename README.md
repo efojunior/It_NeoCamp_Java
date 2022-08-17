@@ -17,8 +17,8 @@
 10. <a href="091.md" >Exceptions</a>
 11. <a href="10.md" >Classes Abstratas</a>
 12. <a href="11.md" >Interfaces</a>
-<!--13. <a href="12.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 01</a>
-14. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a> 
+13. <a href="12.md" >Collections</a>
+<!--14. <a href="13.md" >Projeto Blog Pessoal - Relacionamento entre Classes - Recurso Tema - Parte 02</a> 
 
 <br /><br />
 	
