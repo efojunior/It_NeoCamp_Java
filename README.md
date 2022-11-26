@@ -23,8 +23,13 @@
 16. <a href="14.md" >Interfaces</a>
 17. <a href="15.md" >Collections</a>
 18. <a href="16.md" >Optional</a> 
-19. <a href="18.md" >Streams</a> 
-20. <a href="17.md" >Bibliotecas</a>
+19. <a href="17.md" >Streams</a> 
+
+<h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
+
+1. <a href="b01.md" >Math</a>
+2. <a href="b02.md" >String</a>
+3. <a href="b03.md" >LocalDate, LocalTime, LocalDateTime</a>
 
 <!-- <br /><br />
 	
