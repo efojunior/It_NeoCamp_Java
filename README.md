@@ -24,7 +24,8 @@
 17. <a href="15.md" >Collections</a>
 18. <a href="18.md" >Estrutura de dados</a>
 19. <a href="16.md" >Optional</a> 
-20. <a href="17.md" >Streams</a> 
+20. <a href="19.md" >Lambda</a>
+21. <a href="17.md" >Streams</a> 
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
 
