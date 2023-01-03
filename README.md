@@ -8,7 +8,7 @@
 1. <a href="01.md">Introdução ao Java</a> X
 2. <a href="02.md">Eclipse</a> X
 3. <a href="03.md">Variáveis e Constantes</a>✔
-4. <a href="04.md">Entrada e Saída de dados</a>X⚠
+4. <a href="04.md">Entrada e Saída de dados</a> X⚠
 5. <a href="05.md">Operadores</a>✔
 6. <a href="06.md">Laços Condicionais</a> X
 7. <a href="07.md">Laços de Repetição</a> X
