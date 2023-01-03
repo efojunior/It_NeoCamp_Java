@@ -5,14 +5,14 @@
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Introdução ao Java</h2>
 
-1. <a href="01.md">Introdução ao Java</a>X
-2. <a href="02.md">Eclipse</a>X
+1. <a href="01.md">Introdução ao Java</a> X
+2. <a href="02.md">Eclipse</a> X
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a>X⚠
 5. <a href="05.md">Operadores</a>✔
-6. <a href="06.md">Laços Condicionais</a>X
-7. <a href="07.md">Laços de Repetição</a>X
-8. <a href="08.md">Vetores e Matrizes</a>X
+6. <a href="06.md">Laços Condicionais</a> X
+7. <a href="07.md">Laços de Repetição</a> X
+8. <a href="08.md">Vetores e Matrizes</a> X
 9. <a href="09.md">Métodos</a> ✔
 10. <a href="10.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
 11. <a href="11.md">Introdução a Programação Orientada a Objetos - Parte 02</a>✔
@@ -20,10 +20,10 @@
 13. <a href="13.md">Classes Abstratas</a>✔
 14. <a href="14.md">Interfaces</a>✔
 15. <a href="15.md">Collections</a>⚠
-16. <a href="18.md">Estrutura de dados</a>X⚠
+16. <a href="18.md">Estrutura de dados</a> X⚠
 17. <a href="16.md">Optional</a>⚠ 
-18. <a href="19.md">Lambda</a>X⚠
-19. <a href="17.md">Streams</a>X⚠ 
+18. <a href="19.md">Lambda</a> X⚠
+19. <a href="17.md">Streams</a> X⚠ 
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
 
