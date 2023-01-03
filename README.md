@@ -5,44 +5,44 @@
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Introdução ao Java</h2>
 
-1. <a href="01.md" >Introdução ao Java</a>
-2. <a href="02.md" >Eclipse</a>
-3. <a href="03.md" >Variáveis e Constantes</a>
-4. <a href="04.md" >Entrada e Saída de dados</a>
-5. <a href="05.md">Operadores</a>
-6. <a href="06.md">Laços Condicionais</a>
-7. <a href="07.md">Laços de repetição</a>
-8. <a href="08.md">Vetores e Matrizes</a>
-9. <a href="09.md">Métodos</a> 
-10. <a href="10.md">Introdução a Programação Orientada a Objetos - Parte 01</a>
-11. <a href="11.md">Introdução a Programação Orientada a Objetos - Parte 02</a>
-12. <a href="12.md">Exceptions</a>
-13. <a href="13.md">Classes Abstratas</a>
-14. <a href="14.md">Interfaces</a>
-15. <a href="15.md">Collections</a>
-16. <a href="18.md">Estrutura de dados</a>
-17. <a href="16.md">Optional</a> 
-18. <a href="19.md">Lambda</a>
-19. <a href="17.md">Streams</a> 
+1. <a href="01.md">Introdução ao Java</a>X
+2. <a href="02.md">Eclipse</a>X
+3. <a href="03.md">Variáveis e Constantes</a>✔
+4. <a href="04.md">Entrada e Saída de dados</a>X⚠
+5. <a href="05.md">Operadores</a>✔
+6. <a href="06.md">Laços Condicionais</a>X
+7. <a href="07.md">Laços de Repetição</a>X
+8. <a href="08.md">Vetores e Matrizes</a>X
+9. <a href="09.md">Métodos</a> ✔
+10. <a href="10.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
+11. <a href="11.md">Introdução a Programação Orientada a Objetos - Parte 02</a>✔
+12. <a href="12.md">Exceptions</a>✔
+13. <a href="13.md">Classes Abstratas</a>✔
+14. <a href="14.md">Interfaces</a>✔
+15. <a href="15.md">Collections</a>⚠
+16. <a href="18.md">Estrutura de dados</a>X⚠
+17. <a href="16.md">Optional</a>⚠ 
+18. <a href="19.md">Lambda</a>X⚠
+19. <a href="17.md">Streams</a>X⚠ 
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
 
-1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>
-2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>
-3. <a href="pr03.md">Projeto Conta Bancária - Classe Conta</a>
-4. <a href="pr04.md">Projeto Conta Bancária - Classes ContaCorrente e ContaPoupanca</a>
-5. <a href="pr05.md">Projeto Conta Bancária - Classe Menu - Exceptions</a>
-6. <a href="pr06.md">Projeto Conta Bancária - Classe Conta - Abstrata</a> 
-7. <a href="pr07.md">Projeto Conta Bancária - Interface ContaRepository</a> 
-8. <a href="pr08.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte I</a>
-9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>
+1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>✔
+2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>✔
+3. <a href="pr03.md">Projeto Conta Bancária - Classe Conta</a>✔
+4. <a href="pr04.md">Projeto Conta Bancária - Classes ContaCorrente e ContaPoupanca</a>✔
+5. <a href="pr05.md">Projeto Conta Bancária - Classe Menu - Exceptions</a>✔
+6. <a href="pr06.md">Projeto Conta Bancária - Classe Conta - Abstrata</a> ✔
+7. <a href="pr07.md">Projeto Conta Bancária - Interface ContaRepository</a> ✔
+8. <a href="pr08.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte I</a>✔
+9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>✔
 10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a>
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
 
-1. <a href="b01.md" >Math</a>
-2. <a href="b02.md" >String</a>
-3. <a href="b03.md" >LocalDate, LocalTime, LocalDateTime</a>
+1. <a href="b01.md">Classe Math</a>✔
+2. <a href="b02.md">Classe String</a>✔
+3. <a href="b03.md">Classes LocalDate, LocalTime, LocalDateTime</a>✔
 
 <!-- <br /><br />
 	
