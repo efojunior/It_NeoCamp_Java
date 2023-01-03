@@ -5,7 +5,7 @@
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Introdução ao Java</h2>
 
-1. <a href="01.md">Introdução ao Java</a> X
+1. <a href="01.md">Introdução ao Java</a>✔
 2. <a href="02.md">Eclipse</a> X
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a> X⚠
@@ -36,7 +36,7 @@
 7. <a href="pr07.md">Projeto Conta Bancária - Interface ContaRepository</a> ✔
 8. <a href="pr08.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte I</a>✔
 9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>✔
-10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a> X
+10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a>✔
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
 
