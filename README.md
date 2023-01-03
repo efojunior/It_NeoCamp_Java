@@ -36,7 +36,7 @@
 7. <a href="pr07.md">Projeto Conta Bancária - Interface ContaRepository</a> ✔
 8. <a href="pr08.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte I</a>✔
 9. <a href="pr09.md">Projeto Conta Bancária - Classe ContaController - Métodos do CRUD - Parte II</a>✔
-10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a>
+10. <a href="pr10.md">Projeto Conta Bancária - Classe ContaController - Métodos Bancários</a> X
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Classes Auxiliares</h2>
 
