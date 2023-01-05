@@ -22,7 +22,7 @@
 15. <a href="15.md">Collections</a>⚠
 16. <a href="18.md">Estrutura de dados</a> X⚠
 17. <a href="16.md">Optional</a>⚠ 
-18. <a href="19.md">Lambda</a> X⚠
+18. <a href="19.md">Lambda</a>✔
 19. <a href="17.md">Stream</a>✔ 
 
 <h2><img src="https://i.imgur.com/JSfXyzm.png" title="source: imgur.com" width="35px"/>Projeto Conta Bancária</h2>
