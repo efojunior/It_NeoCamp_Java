@@ -10,7 +10,7 @@
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a> X⚠
 5. <a href="05.md">Operadores</a>✔
-6. <a href="06.md">Laços Condicionais</a> ⚠
+6. <a href="06.md">Laços Condicionais</a>✔
 7. <a href="07.md">Laços de Repetição</a> ⚠
 8. <a href="08.md">Vetores e Matrizes</a> X
 9. <a href="09.md">Métodos</a> ✔
