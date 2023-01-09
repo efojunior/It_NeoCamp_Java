@@ -20,7 +20,7 @@
 13. <a href="13.md">Classes Abstratas</a>✔
 14. <a href="14.md">Interfaces</a>✔
 15. <a href="15.md">Collections</a>✔
-16. <a href="18.md">Estrutura de dados</a> X⚠
+16. <a href="18.md">Estrutura de dados</a>✔
 17. <a href="16.md">Optional</a>⚠ 
 18. <a href="19.md">Lambda</a>✔
 19. <a href="17.md">Stream</a>✔ 
