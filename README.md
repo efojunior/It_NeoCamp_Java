@@ -11,8 +11,8 @@
 4. <a href="04.md">Entrada e Saída de dados</a> X⚠
 5. <a href="05.md">Operadores</a>✔
 6. <a href="06.md">Laços Condicionais</a>✔
-7. <a href="07.md">Laços de Repetição</a> ⚠
-8. <a href="08.md">Vetores e Matrizes</a> X
+7. <a href="07.md">Laços de Repetição</a> ✔
+8. <a href="08.md">Vetores e Matrizes</a> ⚠
 9. <a href="09.md">Métodos</a> ✔
 10. <a href="10.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
 11. <a href="11.md">Introdução a Programação Orientada a Objetos - Parte 02</a>✔
